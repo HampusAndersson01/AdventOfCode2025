@@ -4,8 +4,7 @@ This repository contains my solutions to the [Advent of Code](https://adventofco
 
 ## Progress
 
-- Day 1: [✓](Day01)
-- Day 2: [✓](Day02)
-- Day 3: [✓](Day03)
-- Day 4: [✓](Day04)
-
+- Day 1: [✓](Day%201)
+- Day 2: [✓](Day%202)
+- Day 3: [✓](Day%203)
+- Day 4: [✓](Day%204)
